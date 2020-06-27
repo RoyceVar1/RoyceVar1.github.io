@@ -9,6 +9,7 @@ for multiples of three print "Fizz"
 for multiples of five print "Buzz"
 for multiples of both three and five print "FizzBuzz"
 for numbers not under the condition, just print the actual number
+
 80%
 
 
