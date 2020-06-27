@@ -1,6 +1,6 @@
 # Royce Lee
 
-Hello my name is Royce Lee
+Hello my name is Royce Lee and my little brother is Rowen Lee
 
 ## 2020-06-27
 ### FizzBuzz
