@@ -2,6 +2,9 @@
 
 Hello my name is Royce Lee and my little brother is Rowen Lee
 
+## 2020-06-28
+64% 
+
 ## 2020-06-27
 ### FizzBuzz
 Both "while" and "for" loop used 
