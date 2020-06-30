@@ -2,6 +2,9 @@
 
 Hello my name is Royce Lee and my little brother is Rowen Lee
 
+## 2020-07-01
+15%
+
 ## 2020-06-30
 80%
 
