@@ -10,6 +10,7 @@ Hello my name is Royce Lee and my little brother is Rowen Lee
 
 ## 2020-06-30
 80%
+Uglifier
 
 ## 2020-06-29
 39%
