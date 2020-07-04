@@ -4,6 +4,7 @@ Hello my name is Royce Lee and my little brother is Rowen Lee
 
 ## 2020-07-02
 ![Murdle the tirtle](.\Murdle_the_Turtle.jpg)
+
 39%
 
 ## 2020-07-01
