@@ -2,6 +2,11 @@
 
 Hello my name is Royce Lee and my little brother is Rowen Lee
 
+## 2020-07-07
+I am finally in the intermediate faze in Python (Object)
+
+28%
+
 ## 2020-07-04
 I learned C++ - printf("hello world");
 
@@ -41,3 +46,4 @@ for numbers not under the condition, just print the actual number
 
 ## 2020-06-25
 29%
+
