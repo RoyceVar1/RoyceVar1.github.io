@@ -1,6 +1,9 @@
 # Royce Lee
 
-Hello my name is Royce Lee and my little brother is Rowen Lee
+This is a blog for my coding progress
+
+## 2020-07-10
+I lost my progress on python solving probelm answers, I can't restore it :(
 
 ## 2020-07-07
 I am finally in the intermediate faze in Python (Object)
@@ -17,18 +20,10 @@ I learned C++ - printf("hello world");
 
 39%
 
-## 2020-07-01
-15%
-
 ## 2020-06-30
-80%
 Uglifier
 
-## 2020-06-29
-39%
-
-## 2020-06-28
-64% 
+80%
 
 ## 2020-06-27
 ### FizzBuzz
@@ -39,11 +34,3 @@ for multiples of both three and five print "FizzBuzz"
 for numbers not under the condition, just print the actual number
 
 80%
-
-
-## 2020-06-26
-79%
-
-## 2020-06-25
-29%
-
