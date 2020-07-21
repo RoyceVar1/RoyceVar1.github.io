@@ -1,6 +1,9 @@
 # Royce Lee
 
-This is a blog for my coding progress
+This is a blog for my coding progress                                                                              
+
+## 2020-07-21
+Starting a bot project for Instagram!
 
 ## 2020-07-10
 I lost my progress on python solving probelm answers, I can't restore it :(
