@@ -1,6 +1,9 @@
 # Royce Lee
 
-This is a blog for my coding progress                                                                              
+This is a blog for my coding progress        
+
+## 2020-07-22
+How do I get followers, while using bots, if instagram bans?
 
 ## 2020-07-21
 Starting a bot project for Instagram!
